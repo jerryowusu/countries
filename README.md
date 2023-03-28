@@ -2,6 +2,7 @@
 
 - [📖 About the Project](#about-project)
 - [🛠 Built With](#built-with)
+- [🛠 Key Features](#key-features)
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
   - [Prerequisites](#prerequisites)
@@ -41,6 +42,10 @@ This is a project to display all the countries in the world using react and tail
     <li><a href="https://github.com/">GitHub</a></li>
   </ul>
 </details>
+
+## 🔭 Future Features <a name="future-features"></a>
+- **Using redux to manage state**
+
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
@@ -84,7 +89,9 @@ npm test
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- **[Creating own design]**
+- **Updating the design**
+- **Adding more functionalities**
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
