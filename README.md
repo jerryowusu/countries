@@ -43,7 +43,7 @@ This is a project to display all the countries in the world using react and tail
   </ul>
 </details>
 
-## 🔭 Future Features <a name="future-features"></a>
+## 🔭 Key Features <a name="future-features"></a>
 - **Using redux to manage state**
 
 
