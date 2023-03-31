@@ -45,6 +45,7 @@ This is a project to display all the countries in the world using react and tail
 
 ## 🔭 Key Features <a name="future-features"></a>
 - **Using redux to manage state**
+- **Using react router dom**
 
 
 ## 💻 Getting Started <a name="getting-started"></a>
